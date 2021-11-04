@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rossculbert
 - 👀 I’m interested in FinTech, big data, QA. 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and upskilling in Java
 - 💞️ I’m looking to collaborate, usually!
 - 📫 How to reach me rossculbert@gmail.com
 
